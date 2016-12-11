@@ -1,0 +1,18 @@
+﻿{
+  "supports": {},
+  "dependencies": {
+    "metrolog": "1.0.1",
+    "Prism.Core": "6.2.0",
+    "prism.forms": "6.2.0",
+    "reactiveProperty": "3.4.0",
+    "System.Reactive": "3.1.1",
+    "System.Reactive.Core": "3.1.1",
+    "System.Reactive.Interfaces": "3.1.1",
+    "System.Reactive.Linq": "3.1.1",
+    "System.Reactive.PlatformServices": "3.1.1",
+    "unity": "4.0.1"
+  },
+  "frameworks": {
+    ".NETPortable,Version=v4.5,Profile=Profile111": {}
+  }
+}
